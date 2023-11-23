@@ -1,4 +1,7 @@
-# CLEME
-CLEME: Debiasing Multi-reference Evaluation for Grammatical Error Correction
+<div align="center">
 
-We will open source CLEME ASAP.
+# CLEME: Debiasing Multi-reference Evaluation for Grammatical Error Correction
+
+</div>
+
+This repository has been transfered to [THUKELab/CLEME](https://github.com/THUKElab/CLEME).
